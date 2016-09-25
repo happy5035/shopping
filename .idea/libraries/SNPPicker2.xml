@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SNPPicker2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SNPPicker2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/SNPPicker2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
